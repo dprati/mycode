@@ -1,0 +1,11 @@
+--2019-02-01 11:35:25--  https://alta3.com/static/images/python/csv_users.txt
+Resolving alta3.com (alta3.com)... 10.3.200.4
+Connecting to alta3.com (alta3.com)|10.3.200.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1800 (1.8K) [text/plain]
+Saving to: ‘csv_users.txt’
+
+     0K .                                                     100%  227M=0s
+
+2019-02-01 11:35:25 (227 MB/s) - ‘csv_users.txt’ saved [1800/1800]
+
