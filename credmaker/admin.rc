@@ -1,0 +1,7 @@
+export OS_AUTH_URL= www.google.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME= Goog
+export OS_PROJECT_DOMAIN_NAME= le
+export OS_USERNAME= Sergei
+export OS_USER_DOMAIN_NAME= ME
+export OS_PASSWORD= PaS$w0rD
